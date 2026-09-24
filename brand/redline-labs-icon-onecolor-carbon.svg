@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+<path d="M4 200A196 196 0 1 0 396 200A196 196 0 1 0 4 200ZM30 200A170 170 0 1 1 370 200A170 170 0 1 1 30 200Z" fill="#15171C" fill-rule="evenodd"/>
+<path d="M301.1 115.2A132 132 0 0 1 314.3 266" fill="none" stroke="#15171C" stroke-width="40"/>
+<line x1="68.4" y1="276" x2="103" y2="256" stroke="#15171C" stroke-width="13"/>
+<line x1="50.3" y1="173.6" x2="89.7" y2="180.6" stroke="#15171C" stroke-width="13"/>
+<line x1="102.3" y1="83.6" x2="128" y2="114.2" stroke="#15171C" stroke-width="13"/>
+<line x1="200" y1="48" x2="200" y2="88" stroke="#15171C" stroke-width="13"/>
+<line x1="297.7" y1="83.6" x2="272" y2="114.2" stroke="#15171C" stroke-width="13"/>
+<line x1="349.7" y1="173.6" x2="310.3" y2="180.6" stroke="#15171C" stroke-width="13"/>
+<line x1="331.6" y1="276" x2="297" y2="256" stroke="#15171C" stroke-width="13"/>
+<polygon points="166,193 190,188 350,196 350,204 190,212 166,207" fill="#15171C" transform="rotate(-4 200 200)"/>
+<circle cx="200" cy="200" r="28" fill="none" stroke="#15171C" stroke-width="7"/><circle cx="200" cy="200" r="10.1" fill="#15171C"/>
+</svg>
